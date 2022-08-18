@@ -2,8 +2,7 @@
 
 > _Want to give feedback on the documentation? [Open an issue on this repository](https://github.com/ministryofjustice/technical-architecture/issues)._
 
-This repository holds the website and documentation for the [Technical Architecture at the Ministry of Justice
-](https://ministryofjustice.github.io/technical-architecture) website.
+This repository holds the website and documentation for the [Technical Architecture](https://technical-architecture.service.justice.gov.uk/) website.
 
 This repository uses the Ministry of Justice's [template-documentation-site](https://github.com/ministryofjustice/template-documentation-site).
 
