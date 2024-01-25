@@ -12,6 +12,6 @@ jobs:
     container:
       image: ministryofjustice/tech-docs-github-pages-publisher:1.5
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v4
     - name: htmlproofer
       run: /publishing-scripts/publish.sh no-repository-changes
